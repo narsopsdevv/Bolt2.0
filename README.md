@@ -1,4 +1,4 @@
-# 🚀 Bolt2.0 - AI Website Maker
+# 🚀 LaunchBase - AI Website Maker
 
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -14,9 +14,9 @@
 
 ---
 
-## ✨ What is Bolt2.0?
+## ✨ What is LaunchBase?
 
-**Bolt2.0** is an AI-powered web development platform that transforms natural language prompts into production-ready, full-stack Next.js applications. Generate complete folder structures, typed components, API routes, and deployable code in minutes.
+**LaunchBase** is an AI-powered web development platform that transforms natural language prompts into production-ready, full-stack Next.js applications. Generate complete folder structures, typed components, API routes, and deployable code in minutes.
 
 ### 🎨 Key Features
 - **Prompt-to-Production**: From idea to deployment in minutes
@@ -43,8 +43,8 @@
 
 ```bash
 # Clone and install
-git clone https://github.com/Aryanwadhwa14/Bolt2.0.git
-cd Bolt2.0
+git clone https://github.com/Aryanwadhwa14/LaunchBase.git
+cd LaunchBase
 npm install
 ```
 
@@ -77,7 +77,7 @@ Open [http://localhost:3000](http://localhost:3000) to see the magic!
 ```
 
 ### 2. **Watch the Magic**
-Bolt2.0 analyzes your prompt and generates:
+LaunchBase analyzes your prompt and generates:
 - Complete file structure
 - Typed React components
 - API routes and database models
@@ -118,7 +118,7 @@ Bolt2.0 analyzes your prompt and generates:
 ## 🏗️ Project Structure
 
 ```
-Bolt2.0/
+LaunchBase/
 ├── app/                    # Next.js App Router
 │   ├── api/               # API endpoints
 │   ├── components/        # React components
@@ -253,7 +253,7 @@ CMD ["npm", "start"]
 ## 💡 FAQ
 
 **Q: How is this different from other AI generators?**
-A: Bolt2.0 creates production-ready, full-stack Next.js apps with complete TypeScript support, not templates.
+A: LaunchBase creates production-ready, full-stack Next.js apps with complete TypeScript support, not templates.
 
 **Q: Can I customize the generated code?**
 A: Yes! All code is fully editable and exportable. You own it completely.
@@ -270,10 +270,10 @@ A: Yes! Code follows best practices with proper error handling and security.
   <h3>🚀 Ready to Build Something Amazing?</h3>
   <p>
     <a href="https://github.com/Aryanwadhwa14/Bolt2.0/fork">
-      <img src="https://img.shields.io/github/forks/Aryanwadhwa14/Bolt2.0?style=social" alt="Fork" />
+      <img src="https://img.shields.io/github/forks/Aryanwadhwa14/LaunchBase?style=social" alt="Fork" />
     </a>
     <a href="https://github.com/Aryanwadhwa14/Bolt2.0">
-      <img src="https://img.shields.io/github/stars/Aryanwadhwa14/Bolt2.0?style=social" alt="Stars" />
+      <img src="https://img.shields.io/github/stars/Aryanwadhwa14/LaunchBase?style=social" alt="Stars" />
     </a>
   </p>
   
